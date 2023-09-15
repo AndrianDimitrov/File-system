@@ -1,0 +1,11 @@
+public class Utils  {
+
+    public static final int LOGICAL_SEPARATOR = 0xff;
+    public static final String containerName = "container";
+    public static final int MAX_METADATA_SIZE = 5000000; // 5 MB
+    public static final int CONTAINER_MAX_SIZE = 1000000000; // 1 GB
+    public static final int ROOT_FOLDER_ID = 1;
+
+    }
+
+
